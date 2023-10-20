@@ -6,7 +6,7 @@ export default function Root() {
   return (
     // Note: `className` props throughout this app leverage Tailwind CSS, an optional dependency.
     <div className="m-2.5">
-      {/* A <nav> component that links out to /, /teas, and /about. */}
+      
       <Nav />
       {/* Nested routes will render right here. */}
       <Outlet />

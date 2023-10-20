@@ -1,6 +1,4 @@
 /*
-Phase 2 -> Routing
-by Sakib Rasul | June 23, 2023
 
 Core Deliverables
 1. Install React Router (a project requirement) and Tailwind CSS (an optional approach to styling).

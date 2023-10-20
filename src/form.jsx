@@ -2,7 +2,7 @@ import { useState } from "react"
 
 // This form lets users add new teas to our backend.
 // Note: On `submit`, this form will trigger `handleSubmit(event)`,
-//       a function passed down to it from <Teas>.
+
 export default function Form({ handleSubmit }) {
     // We'll control the form's inputs with state.
     const [formData, setFormdata] = useState([{

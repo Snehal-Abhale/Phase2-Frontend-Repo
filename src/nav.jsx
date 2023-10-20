@@ -1,6 +1,5 @@
 import { NavLink } from "react-router-dom";
 
-// A <nav> that links out to /, /teas, and /about.
 export default function Nav() {
     return (
         <nav className="flex gap-10">
